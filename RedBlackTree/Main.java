@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         //В майне реализована возможность вставки новых значений в наше дерево.
-        //Сам процесс можно отследить с помощью дебагера, установив флажок на стр.19
+        //Сам процесс можно отследить с помощью дебагера, установив флажок на стр.21
 
         Scanner iScannerInt = new Scanner(System.in);
         final RedBlackTree tree = new RedBlackTree();
